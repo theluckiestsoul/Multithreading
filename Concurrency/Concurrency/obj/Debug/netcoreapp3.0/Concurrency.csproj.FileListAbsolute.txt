@@ -1,0 +1,11 @@
+D:\C#\Concurrency\Concurrency\bin\Debug\netcoreapp3.0\Concurrency.exe
+D:\C#\Concurrency\Concurrency\bin\Debug\netcoreapp3.0\Concurrency.deps.json
+D:\C#\Concurrency\Concurrency\bin\Debug\netcoreapp3.0\Concurrency.runtimeconfig.json
+D:\C#\Concurrency\Concurrency\bin\Debug\netcoreapp3.0\Concurrency.runtimeconfig.dev.json
+D:\C#\Concurrency\Concurrency\bin\Debug\netcoreapp3.0\Concurrency.dll
+D:\C#\Concurrency\Concurrency\bin\Debug\netcoreapp3.0\Concurrency.pdb
+D:\C#\Concurrency\Concurrency\obj\Debug\netcoreapp3.0\Concurrency.csprojAssemblyReference.cache
+D:\C#\Concurrency\Concurrency\obj\Debug\netcoreapp3.0\Concurrency.AssemblyInfoInputs.cache
+D:\C#\Concurrency\Concurrency\obj\Debug\netcoreapp3.0\Concurrency.AssemblyInfo.cs
+D:\C#\Concurrency\Concurrency\obj\Debug\netcoreapp3.0\Concurrency.dll
+D:\C#\Concurrency\Concurrency\obj\Debug\netcoreapp3.0\Concurrency.pdb

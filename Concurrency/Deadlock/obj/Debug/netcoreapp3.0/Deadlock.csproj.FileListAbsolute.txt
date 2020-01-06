@@ -1,0 +1,11 @@
+D:\C#\Concurrency\Deadlock\bin\Debug\netcoreapp3.0\Deadlock.exe
+D:\C#\Concurrency\Deadlock\bin\Debug\netcoreapp3.0\Deadlock.deps.json
+D:\C#\Concurrency\Deadlock\bin\Debug\netcoreapp3.0\Deadlock.runtimeconfig.json
+D:\C#\Concurrency\Deadlock\bin\Debug\netcoreapp3.0\Deadlock.runtimeconfig.dev.json
+D:\C#\Concurrency\Deadlock\bin\Debug\netcoreapp3.0\Deadlock.dll
+D:\C#\Concurrency\Deadlock\bin\Debug\netcoreapp3.0\Deadlock.pdb
+D:\C#\Concurrency\Deadlock\obj\Debug\netcoreapp3.0\Deadlock.csprojAssemblyReference.cache
+D:\C#\Concurrency\Deadlock\obj\Debug\netcoreapp3.0\Deadlock.AssemblyInfoInputs.cache
+D:\C#\Concurrency\Deadlock\obj\Debug\netcoreapp3.0\Deadlock.AssemblyInfo.cs
+D:\C#\Concurrency\Deadlock\obj\Debug\netcoreapp3.0\Deadlock.dll
+D:\C#\Concurrency\Deadlock\obj\Debug\netcoreapp3.0\Deadlock.pdb

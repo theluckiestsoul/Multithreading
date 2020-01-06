@@ -1,0 +1,11 @@
+D:\C#\Concurrency\Synchronization\bin\Debug\netcoreapp3.0\Synchronization.exe
+D:\C#\Concurrency\Synchronization\bin\Debug\netcoreapp3.0\Synchronization.deps.json
+D:\C#\Concurrency\Synchronization\bin\Debug\netcoreapp3.0\Synchronization.runtimeconfig.json
+D:\C#\Concurrency\Synchronization\bin\Debug\netcoreapp3.0\Synchronization.runtimeconfig.dev.json
+D:\C#\Concurrency\Synchronization\bin\Debug\netcoreapp3.0\Synchronization.dll
+D:\C#\Concurrency\Synchronization\bin\Debug\netcoreapp3.0\Synchronization.pdb
+D:\C#\Concurrency\Synchronization\obj\Debug\netcoreapp3.0\Synchronization.AssemblyInfoInputs.cache
+D:\C#\Concurrency\Synchronization\obj\Debug\netcoreapp3.0\Synchronization.AssemblyInfo.cs
+D:\C#\Concurrency\Synchronization\obj\Debug\netcoreapp3.0\Synchronization.dll
+D:\C#\Concurrency\Synchronization\obj\Debug\netcoreapp3.0\Synchronization.pdb
+D:\C#\Concurrency\Synchronization\obj\Debug\netcoreapp3.0\Synchronization.csprojAssemblyReference.cache

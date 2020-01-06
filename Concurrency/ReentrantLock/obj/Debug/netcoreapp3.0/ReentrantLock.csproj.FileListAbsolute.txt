@@ -1,0 +1,11 @@
+D:\C#\Concurrency\ReentrantLock\bin\Debug\netcoreapp3.0\ReentrantLock.exe
+D:\C#\Concurrency\ReentrantLock\bin\Debug\netcoreapp3.0\ReentrantLock.deps.json
+D:\C#\Concurrency\ReentrantLock\bin\Debug\netcoreapp3.0\ReentrantLock.runtimeconfig.json
+D:\C#\Concurrency\ReentrantLock\bin\Debug\netcoreapp3.0\ReentrantLock.runtimeconfig.dev.json
+D:\C#\Concurrency\ReentrantLock\bin\Debug\netcoreapp3.0\ReentrantLock.dll
+D:\C#\Concurrency\ReentrantLock\bin\Debug\netcoreapp3.0\ReentrantLock.pdb
+D:\C#\Concurrency\ReentrantLock\obj\Debug\netcoreapp3.0\ReentrantLock.csprojAssemblyReference.cache
+D:\C#\Concurrency\ReentrantLock\obj\Debug\netcoreapp3.0\ReentrantLock.AssemblyInfoInputs.cache
+D:\C#\Concurrency\ReentrantLock\obj\Debug\netcoreapp3.0\ReentrantLock.AssemblyInfo.cs
+D:\C#\Concurrency\ReentrantLock\obj\Debug\netcoreapp3.0\ReentrantLock.dll
+D:\C#\Concurrency\ReentrantLock\obj\Debug\netcoreapp3.0\ReentrantLock.pdb

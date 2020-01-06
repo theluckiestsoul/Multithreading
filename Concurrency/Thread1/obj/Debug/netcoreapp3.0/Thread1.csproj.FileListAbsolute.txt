@@ -1,0 +1,11 @@
+D:\C#\Concurrency\Thread1\bin\Debug\netcoreapp3.0\Thread1.exe
+D:\C#\Concurrency\Thread1\bin\Debug\netcoreapp3.0\Thread1.deps.json
+D:\C#\Concurrency\Thread1\bin\Debug\netcoreapp3.0\Thread1.runtimeconfig.json
+D:\C#\Concurrency\Thread1\bin\Debug\netcoreapp3.0\Thread1.runtimeconfig.dev.json
+D:\C#\Concurrency\Thread1\bin\Debug\netcoreapp3.0\Thread1.dll
+D:\C#\Concurrency\Thread1\bin\Debug\netcoreapp3.0\Thread1.pdb
+D:\C#\Concurrency\Thread1\obj\Debug\netcoreapp3.0\Thread1.csprojAssemblyReference.cache
+D:\C#\Concurrency\Thread1\obj\Debug\netcoreapp3.0\Thread1.AssemblyInfoInputs.cache
+D:\C#\Concurrency\Thread1\obj\Debug\netcoreapp3.0\Thread1.AssemblyInfo.cs
+D:\C#\Concurrency\Thread1\obj\Debug\netcoreapp3.0\Thread1.dll
+D:\C#\Concurrency\Thread1\obj\Debug\netcoreapp3.0\Thread1.pdb

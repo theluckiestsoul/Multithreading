@@ -1,0 +1,11 @@
+D:\C#\Concurrency\BackgroundThreads\bin\Debug\netcoreapp3.0\BackgroundThreads.exe
+D:\C#\Concurrency\BackgroundThreads\bin\Debug\netcoreapp3.0\BackgroundThreads.deps.json
+D:\C#\Concurrency\BackgroundThreads\bin\Debug\netcoreapp3.0\BackgroundThreads.runtimeconfig.json
+D:\C#\Concurrency\BackgroundThreads\bin\Debug\netcoreapp3.0\BackgroundThreads.runtimeconfig.dev.json
+D:\C#\Concurrency\BackgroundThreads\bin\Debug\netcoreapp3.0\BackgroundThreads.dll
+D:\C#\Concurrency\BackgroundThreads\bin\Debug\netcoreapp3.0\BackgroundThreads.pdb
+D:\C#\Concurrency\BackgroundThreads\obj\Debug\netcoreapp3.0\BackgroundThreads.AssemblyInfoInputs.cache
+D:\C#\Concurrency\BackgroundThreads\obj\Debug\netcoreapp3.0\BackgroundThreads.AssemblyInfo.cs
+D:\C#\Concurrency\BackgroundThreads\obj\Debug\netcoreapp3.0\BackgroundThreads.dll
+D:\C#\Concurrency\BackgroundThreads\obj\Debug\netcoreapp3.0\BackgroundThreads.pdb
+D:\C#\Concurrency\BackgroundThreads\obj\Debug\netcoreapp3.0\BackgroundThreads.csprojAssemblyReference.cache

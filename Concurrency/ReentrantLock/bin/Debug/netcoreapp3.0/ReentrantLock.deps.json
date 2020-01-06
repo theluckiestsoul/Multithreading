@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ReentrantLock/1.0.0": {
+        "runtime": {
+          "ReentrantLock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReentrantLock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

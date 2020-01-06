@@ -1,0 +1,11 @@
+D:\C#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.exe
+D:\C#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.deps.json
+D:\C#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.runtimeconfig.json
+D:\C#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.runtimeconfig.dev.json
+D:\C#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.dll
+D:\C#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.pdb
+D:\C#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.csprojAssemblyReference.cache
+D:\C#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\C#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.AssemblyInfo.cs
+D:\C#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.dll
+D:\C#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.pdb
